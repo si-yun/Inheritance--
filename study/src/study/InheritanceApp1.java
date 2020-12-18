@@ -25,23 +25,7 @@ public class InheritanceApp1 {
 		cal1 c1 = new cal1(2,1);
 		cal4 c4 = new cal4(2,1);
 		System.out.println(c4.sum());
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//aa test
-		//last
-		//aa test
-		//dfsfsfsdfdsfasdfasdfasdfs
+		//test
 	}
 
 }
