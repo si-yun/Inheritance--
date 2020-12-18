@@ -29,6 +29,7 @@ public class InheritanceApp1 {
 		System.out.println("aa test ");
 		//aa test
 		//last
+		System.out.println("cccc test");
 	}
 
 }
