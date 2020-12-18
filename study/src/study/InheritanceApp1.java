@@ -20,6 +20,12 @@ class cal4 extends cal1{
 		return this.v1-v2;
 	}
 }
+class cal5{
+	//si test
+}
+class cal6{
+	//si test
+}
 public class InheritanceApp1 {
 	public static void main(String[] args) {
 		cal1 c1 = new cal1(2,1);
