@@ -55,7 +55,33 @@ public class InheritanceApp1 {
 		System.out.println(c4.minus());
 		System.out.println(c4.minus());
 		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
 	}
 	//test
-	//master
+	//test11
+	//test11
+
 }
