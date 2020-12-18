@@ -21,7 +21,17 @@ class cal4 extends cal1{
 	}
 }
 class cal5{
-	//si test
+	//si test+
+	int v1,v2;
+	cal5(int v1,int v2){
+		this.v1 = v1 ;
+		this.v2 = v2 ;
+		System.out.println("cal1!");
+	}
+	public int sum() {
+		return this.v1+v2;
+	}
+	
 }
 class cal6{
 	//si test
