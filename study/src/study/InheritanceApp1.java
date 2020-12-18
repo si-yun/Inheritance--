@@ -28,6 +28,8 @@ public class InheritanceApp1 {
 		//aa test
 		//aa test
 		//aa test
+		//aa test
+		//aa test
 	}
 
 }
