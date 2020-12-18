@@ -14,7 +14,6 @@ class cal4 extends cal1{
 
 	cal4(int v1, int v2) {
 		super(v1, v2);   //super는 부모클래스의 생성자
-		// TODO Auto-generated constructor stub
 		System.out.println("cal4!");
 	}
 	public int minus() {
