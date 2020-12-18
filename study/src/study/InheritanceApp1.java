@@ -13,7 +13,7 @@ class cal1{
 class cal4 extends cal1{
 
 	cal4(int v1, int v2) {
-		super(v1, v2);   //super는 부모클래스의 생성자
+		super(v1, v2);   //super�뒗 遺�紐⑦겢�옒�뒪�쓽 �깮�꽦�옄
 		System.out.println("cal4!");
 	}
 	public int minus() {
@@ -30,7 +30,17 @@ public class InheritanceApp1 {
 		//aa test
 		//aa test
 		//aa test
+		//aa test
+		//aa test
+		//aa test
+		//aa test
+		//aa test
+		//aa test
+		//aa test
+		//aa test
+		//aa test
 		//last
+		//aa test
 	}
 
 }
