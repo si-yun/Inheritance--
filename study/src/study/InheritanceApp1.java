@@ -59,8 +59,3 @@ public class InheritanceApp1 {
 	//test
 	//master
 }
-class cal5{
-	int a = 1;
-	int b = 2;
-	//master
-}
