@@ -26,7 +26,12 @@ public class InheritanceApp1 {
 		cal4 c4 = new cal4(2,1);
 		System.out.println(c4.sum());
 		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
+		System.out.println(c4.minus());
 	}
+	//test
 
 }
 
