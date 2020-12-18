@@ -28,6 +28,7 @@ public class InheritanceApp1 {
 		System.out.println(c4.sum());
 		System.out.println("aa test ");
 		//aa test
+		//last
 	}
 
 }
