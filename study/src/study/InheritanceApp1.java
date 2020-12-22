@@ -27,18 +27,6 @@ public class InheritanceApp1 {
 		System.out.println(c4.sum());
 		//test
 		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		//test zz
-		
 	}
 
 }
