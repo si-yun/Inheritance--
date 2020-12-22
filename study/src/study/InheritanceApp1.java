@@ -35,15 +35,9 @@ class cal1{
 //}
 public class InheritanceApp1 {
 	public static void main(String[] args) {
-		cal1 c1 = new cal1(10,5);
-//		cal4 c4 = new cal4(2,1);
-//		System.out.println(c4.sum());
-		System.out.println(c1.sum());
-		System.out.println(c1.minus());
-		System.out.println(c1.mul());
-		System.out.println(c1.div());
-		
-		
+		cal1 c1 = new cal1(2,1);
+		//test
+		//test zz
 	}
 
 }
