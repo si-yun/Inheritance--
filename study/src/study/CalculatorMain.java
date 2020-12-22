@@ -1,9 +1,12 @@
 package study;
 abstract class Calculator{
+	static final double PI = 3.14;
 	int left,right;
+	
 	public void setOprands(int left,int right) {
 		this.left = left;
 		this.right = right;
+		//Calculator.PI = 6;
 	}
 	public abstract void sum();
 	public abstract void avg();
@@ -39,5 +42,9 @@ public class CalculatorMain {
 		CalculatorMinus c2 = new CalculatorMinus();
 		c2.setOprands(10, 20);
 		c2.run();
+		
+//		Calculator c3 = new Calculator();
+//		System.out.println(c3.PI);
+		
 	}
 }
